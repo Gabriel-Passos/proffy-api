@@ -36,9 +36,7 @@ Acesse o terminal, e clone o projeto com o seguinte comando:
 git clone https://github.com/Gabriel-Passos/proffy-api.git
 ```
 
-### Back-end
-
-- Para rodar a api, precisamos instalar as dependências do projeto, portanto entre na pasta backend e execute o seguinte comando:
+- Para rodar a API, precisamos instalar as dependências do projeto, portanto entre na pasta backend e execute o seguinte comando:
 
 ```
 yarn 
