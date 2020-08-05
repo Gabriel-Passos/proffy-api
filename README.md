@@ -14,7 +14,7 @@
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+:small_blue_diamond: [Como rodar a API](#como-rodar-a-API-arrow_forward)
 
 :small_blue_diamond: [Tecnologias utilizadas](#tecnologias-utilizadas)
 
