@@ -48,7 +48,7 @@ npm install
 
 - A pasta `node_modules` irá aparecer depois da instalação das dependências.
 
-- Agora falta pouco para rodar a api, ainda com o terminal aberto na pasta backend execute: 
+- Agora falta pouco para rodar a API, ainda com o terminal aberto na pasta backend execute: 
 
 ```
 yarn dev:server
