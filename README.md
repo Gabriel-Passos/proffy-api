@@ -7,8 +7,6 @@
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/static/v1?label=TypeScript&message=3.7.2&color=blue&style=flat"/></a>
   <a href="http://knexjs.org/"><img src="https://img.shields.io/static/v1?label=Knex&message=0.21.2&color=blue&style=flat"/></a>
 </p>
-  
-> Status do Projeto: Em desenvolvimento. :warning:
 
 ### Tópicos 
 
